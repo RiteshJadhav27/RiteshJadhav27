@@ -1,78 +1,77 @@
-## Hi there 👋
-Hi, I’m Ritesh Jadhav
-"First‑year MCS student building AI‑driven, full‑stack solutions for tourism safety and medical imaging with a focus on clean, reliable dashboards and real‑world impact."
+# 👋 Hi, I’m Ritesh Jadhav
+<p align="center"> <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00E5FF&size=22&center=true&vCenter=true&width=700&height=45&lines=Building+AI%E2%80%91driven+%26+full%E2%80%91stack+solutions;Tourism+Safety+%7C+Medical+AI+%7C+Dashboards;React+%2B+TypeScript+%7C+Node.js+%7C+Python;Firebase+%7C+MongoDB+%7C+Real%E2%80%91time+Apps"></a> </p> <hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
-<hr style="border:none;border-top:1px solid #e5e7eb;margin:14px 0;border-radius:2px;">
-What I do
-Full‑stack web apps using React + TypeScript on the frontend and Node.js APIs, with realtime features via Firebase and data layers on MongoDB.
+## 👨‍💻 About Me
+First‑year MCS student crafting practical AI and full‑stack products with a focus on professional dashboards, geospatial UX, and explainable models for real‑world impact. Work spans React/TypeScript frontends, Node.js services, Python CV pipelines, and Firebase/MongoDB data layers.
 
-AI/ML prototyping in Python for computer vision, model explainability, and deployment‑ready pipelines.
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
-Professional dashboard UX: sidebar‑first layouts, crisp navbars, and information‑dense yet scannable views.
+<b>🛠 Core Expertise</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22">
+-**Frontend**: React, TypeScript, dashboard layouts, component composition, and clean UI patterns
+-**Backend**: Node.js APIs, real‑time incident/event flows, secure integrations
+-**Databases**: MongoDB (RBAC, custom roles), Firebase (Auth, Hosting, Realtime)
+-**AI/ML**: Python for CV, staging/classification, explainability heatmaps
+-**Dev**: Git/GitHub workflows, code reviews, branching, conflict resolution
 
-<hr style="border:none;border-top:1px dashed #cbd5e1;margin:14px 0;">
-Current focus
-GeoGuardian — tourism safety platform: GPS tracking, multi‑radius geofences, risk scoring, enter/exit triggers, false‑positive mitigation, route simulation, SOS, E‑FIR, and authority dashboards.
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
-Diabetic Retinopathy AI — fundus image detection and staging with CNNs and Vision Transformers, ensembles, and explainable heatmaps.
+## 🚀 Highlighted Projects
+-**GeoGuardian — Tourism Safety Platform (Currently Working)**
+-Features: real‑time GPS tracking, multi‑radius geofences, risk scoring, enter/exit triggers, false‑positive mitigation, route simulation, SOS, E‑FIR, authority/police dashboards
+Stack: React + TypeScript, Node.js, Firebase, MongoDB; professional sidebar‑first dashboard UI
 
-<hr style="border:none;border-top:1px solid #e5e7eb;margin:14px 0;border-radius:2px;">
-Tech stack
-Frontend: React, TypeScript, dashboard patterns, and component composition.
+-**Diabetic Retinopathy Detection & Staging (Currently Working)**
+Models: CNNs and Vision Transformers, ensemble strategies, explainable heatmaps for clinician trust
 
-Backend: Node.js services for incident/case workflows and real‑time events.
+Outcomes: screening‑ready staging outputs with interpretable visual cues
 
-Databases: MongoDB (RBAC, roles) and Firebase (Auth, Hosting, Realtime).
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
+🔧 Tech Stack
+UI: React, TypeScript, CSS utility patterns, responsive dashboards
 
-AI/ML: Python for CV pipelines, training, and interpretability tooling.
+Services: Node.js, REST, real‑time updates for incident/case management
 
-Dev tools: Git/GitHub collaboration, PR reviews, branching, and conflict resolution.
+Data: MongoDB (roles/privileges), Firebase (Auth, Hosting, Realtime)
 
-<hr style="border:none;border-top:1px dotted #cbd5e1;margin:14px 0;">
-Highlight projects
-GeoGuardian — Tourism Safety
+AI: Python data processing, model training, evaluation, XAI overlays
 
-Features: real‑time GPS, geofences, multi‑zone risk, enter/exit triggers, false‑positive control, emulator route simulation, SOS/E‑FIR, authority dashboards.
+Tools: Git, GitHub, PR reviews, CI basics, environment configs
 
-Stack: React + TypeScript, Node.js, Firebase, MongoDB; polished, sidebar‑first UI.
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
+📌 Recent Work
+Authority dashboards with sleek navbar + sidebar IA for FIR/case workflows
 
-Diabetic Retinopathy Detection & Staging
+Firebase Hosting deployments for React/TS apps with clean routing and asset strategy
 
-Models: CNNs, Vision Transformers, ensembles; explainable heatmaps for clinician trust and triage guidance.
+Git collaboration practices: remotes, branch naming, resolving teammate conflicts
 
-Outcomes: staging outputs and patient intervention pointers suitable for screening flows.
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
+🎯 Interests
+Tourism tech: safety scoring, geofencing UX, real‑time incident management
 
-<hr style="height:3px;border:none;border-radius:6px;background:linear-gradient(90deg,#0f172a 0%,#334155 40%,#64748b 100%);margin:18px 0;">
-Recent work
-Built authority/police dashboards with sleek navbar, sidebar IA, and case/FIR management flows.
+Medical AI: interpretable, screening‑friendly CV systems for accessible care
 
-Resolved Firebase Hosting deploy issues (public directory and index routing) in React/TS apps.
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
+🎓 Education
+MCS (First Year) — coursework: Algorithms, Advanced Databases, AI, Python, .NET, Research Methodology
 
-Improved Git collaboration: remotes, branch naming, and teammate commit conflict handling.
+KHTM College, Nashik (2022–2025)
 
-<hr style="border:none;border-top:1px solid #e5e7eb;margin:14px 0;border-radius:2px;">
-Interests
-Tourism tech, safety scoring, real‑time incident management, and geospatial UX for high‑risk alerts.
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
-Medical AI that balances accuracy with interpretability in resource‑constrained settings.
+## 🤝 Collaboration
+Open to collaborations in safety tech, medical AI, and full‑stack dashboard engineering; active in hackathons and academic competitions.
 
-<hr style="border:none;border-top:1px dashed #cbd5e1;margin:14px 0;">
-<h2>Education </h2>
-FY MCS — focusing on Algorithms, Advanced Databases, AI, Python, .NET, and Research Methodology.
+<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
-KHTM College, Nashik (2022–2025).
+## 📫 Connect
 
-<hr style="border:none;border-top:1px solid #e5e7eb;margin:14px 0;border-radius:2px;">
-Contact and collabs
-Open to collaborations in safety tech, medical AI, and full‑stack dashboards; active in hackathons and academic competitions.
+**Email**: riteshjadhav4133@gmail.com
 
-Portfolio preference: professional dark theme with distinct layouts per page.
+**LinkedIn**: in/ritesh-jadhav-27m2005
 
-<hr style="border:none;border-top:1px dotted #cbd5e1;margin:14px 0;">
-Suggested pins
-GeoGuardian — core platform modules, dashboard UI, geofence/risk scoring demos.
-
-DR‑AI — training notebooks, explainability demos, and staged outputs.
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </p>
+Tips to customize further:
 
 
 <!--
