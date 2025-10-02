@@ -6,56 +6,22 @@ First‑year MCS student crafting practical AI and full‑stack products with a 
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
-<b>🛠 Core Expertise</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22">
--**Frontend**: React, TypeScript, dashboard layouts, component composition, and clean UI patterns
--**Backend**: Node.js APIs, real‑time incident/event flows, secure integrations
--**Databases**: MongoDB (RBAC, custom roles), Firebase (Auth, Hosting, Realtime)
--**AI/ML**: Python for CV, staging/classification, explainability heatmaps
--**Dev**: Git/GitHub workflows, code reviews, branching, conflict resolution
+## 🛠 Core Expertise <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22">
+- **Frontend**: React, TypeScript, dashboard layouts, component composition, and clean UI patterns
+- **Backend**: Node.js APIs, real‑time incident/event flows, secure integrations
+- **Databases**: MongoDB (RBAC, custom roles), Firebase (Auth, Hosting, Realtime)
+- **AI/ML**: Python for CV, staging/classification, explainability heatmaps
+- **Dev**: Git/GitHub workflows, code reviews, branching, conflict resolution
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
 ## 🚀 Highlighted Projects
--**GeoGuardian — Tourism Safety Platform (Currently Working)**
--Features: real‑time GPS tracking, multi‑radius geofences, risk scoring, enter/exit triggers, false‑positive mitigation, route simulation, SOS, E‑FIR, authority/police dashboards
+- **GeoGuardian — Tourism Safety Platform (Currently Working)**
+Features: real‑time GPS tracking, multi‑radius geofences, risk scoring, enter/exit triggers, false‑positive mitigation, route simulation, SOS, E‑FIR, authority/police dashboards
 Stack: React + TypeScript, Node.js, Firebase, MongoDB; professional sidebar‑first dashboard UI
 
--**Diabetic Retinopathy Detection & Staging (Currently Working)**
+- **Diabetic Retinopathy Detection & Staging (Currently Working)**
 Models: CNNs and Vision Transformers, ensemble strategies, explainable heatmaps for clinician trust
-
-Outcomes: screening‑ready staging outputs with interpretable visual cues
-
-<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
-🔧 Tech Stack
-UI: React, TypeScript, CSS utility patterns, responsive dashboards
-
-Services: Node.js, REST, real‑time updates for incident/case management
-
-Data: MongoDB (roles/privileges), Firebase (Auth, Hosting, Realtime)
-
-AI: Python data processing, model training, evaluation, XAI overlays
-
-Tools: Git, GitHub, PR reviews, CI basics, environment configs
-
-<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
-📌 Recent Work
-Authority dashboards with sleek navbar + sidebar IA for FIR/case workflows
-
-Firebase Hosting deployments for React/TS apps with clean routing and asset strategy
-
-Git collaboration practices: remotes, branch naming, resolving teammate conflicts
-
-<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
-🎯 Interests
-Tourism tech: safety scoring, geofencing UX, real‑time incident management
-
-Medical AI: interpretable, screening‑friendly CV systems for accessible care
-
-<hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
-🎓 Education
-MCS (First Year) — coursework: Algorithms, Advanced Databases, AI, Python, .NET, Research Methodology
-
-KHTM College, Nashik (2022–2025)
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg,#0f172a,#334155,#64748b,#94a3b8); border-radius: 4px;" />
 
